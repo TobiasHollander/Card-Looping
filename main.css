@@ -1,0 +1,13 @@
+body{
+  background-color: rosybrown;
+}
+
+.card{
+  width: 18em;
+  margin: .5em auto;
+}
+
+#see-places{
+  margin:auto;
+  display:block;
+}
