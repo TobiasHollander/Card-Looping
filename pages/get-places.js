@@ -25,4 +25,5 @@ var populatePlaces=function(){
 $("#see-places").click(populatePlaces);
 
 
+
 });
